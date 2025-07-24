@@ -14,8 +14,8 @@ public void displayDetails() {
 public class Main {
       public static void main(String[] args) {
         Student student = new Student();
-        student.name = "Aish";
-        student.rollNumber = 9;
+        student.name = "Anjana";
+        student.rollNumber = 21;
         student.grade = 'A';
         student.displayDetails();
     }
